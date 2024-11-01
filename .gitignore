@@ -163,3 +163,4 @@ $RECYCLE.BIN/
 /*.tgz
 
 chartfx-samples/output/
+chartfx-chart/src/test/resources/io/
